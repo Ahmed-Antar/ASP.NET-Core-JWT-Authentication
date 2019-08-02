@@ -18,6 +18,7 @@
       }
     },
     "ASP.NET_Core_JWT_Authentication": {
+      "version":"1.0",
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
