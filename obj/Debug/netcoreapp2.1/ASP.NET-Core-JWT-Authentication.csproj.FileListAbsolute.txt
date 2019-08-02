@@ -1,0 +1,14 @@
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.csprojAssemblyReference.cache
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.csproj.CoreCompileInputs.cache
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.RazorAssemblyInfo.cache
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.RazorAssemblyInfo.cs
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.AssemblyInfoInputs.cache
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.AssemblyInfo.cs
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\bin\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.deps.json
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\bin\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.runtimeconfig.json
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\bin\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.runtimeconfig.dev.json
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\bin\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.dll
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\bin\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.pdb
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.RazorTargetAssemblyInfo.cache
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.dll
+C:\Users\aantar\source\repos\ASP.NET-Core-JWT-Authentication\obj\Debug\netcoreapp2.1\ASP.NET-Core-JWT-Authentication.pdb
